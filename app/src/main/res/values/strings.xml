@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UTSPraktik-IF6-10120244-MuhammadIqbalLutfiHanafiyah</string>
+    <string name="ppdb">Pelaksanaan PPDB Tahap 1 - 2023</string>
+    <string name="det">Detail</string>
+    <string name="siap">Persiapan</string>
+    <string name="date">17 Mei - 5 Juni 2023</string>
+    <string name="pengumuman">Pengumuman Hasil Seleksi</string>
+    <string name="diterima">Anda dinyatakan diterima di</string>
+    <string name="sma">SMA Negeri 1 Bojonggede</string>
+    <string name="jalur">Jalur Prestasi Kejuaraan</string>
+    <string name="layanan">Layanan PPDB</string>
+    <string name="kota">Kota Bandung</string>
+    <string name="info">Info Sekolah PPDB</string>
+    <string name="sosialisasi">Sosialisasi PPDB</string>
+</resources>
